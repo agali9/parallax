@@ -1,4 +1,4 @@
-# Parallax (point-cloud)
+# Parallax
 
 Parallax is a C++20 LiDAR point-cloud processing pipeline with an optional CUDA path. On five KITTI Velodyne scans averaging 122K points, the CPU pipeline runs end to end in 10.3 ms per frame.
 
